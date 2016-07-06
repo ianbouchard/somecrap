@@ -1,0 +1,5 @@
+team,nickname,team_loc,loc_is_good,div,is_good,qb,qb_is_good,stadium,sta_loc,sig_food
+Patriots,Pats,New England,is the best,AFC East,are the best of all time,Tom Brady,is the greatest of all time,Gilette Stadium,Foxborough MA,Steak sandwich from the lighthouse grill,
+Jets,Assbags,New York,is the worst,AFC East,are the worst of all time,Bryce Petty,is not good but he's not Geno Smith either,MetLife Stadium,New Jersey,Kitchen Sink Hotdog,
+Dolphins,Phins,Miami,is hot af,AFC East,aren't the worst,Ryan Tannehil,has zero downfield accuracy,SunLife Stadium,Miami Gardens,Turkey Empenadas,
+Bills,Streaking Bisons,Buffalo,is cold af,AFC East,always finish 8-8,Tyrod Taylor,will be an excellent QB for the Cowboys in 3 years,Ralph Wilson Stadium,Orchard Park NY,Duffs famous wings,
