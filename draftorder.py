@@ -1,4 +1,4 @@
-from sys import argv
+# from sys import argv
 from random import randrange
 
 # script, write_file = argv
